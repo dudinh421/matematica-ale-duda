@@ -1,0 +1,47 @@
+<section id="tropicalia" class="my-5 pt-6 secao-tropicalia">
+    <div class="container d-flex align-items-center">
+            <div class="col-4 d-flex justify-content-center">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Wegerich_Scheckenfalter_Duo_auf_Rotklee.jpg/321px-Wegerich_Scheckenfalter_Duo_auf_Rotklee.jpg" class="rounded-pill" alt="" width="273" height="331" loading="lazy">
+            </div>
+            <div class="col-5">
+                    <h2>O que são borboletas?</h2>
+                    <p class="p-2">Borboletas são artrópodes pertencentes à Classe Insecta. Assim, apresentam corpo dividido em cabeça, tórax e abdome; um par de antenas, três pares de patas, e também asas, estas encontradas somente nesta classe, embora nem todos os seus representantes as possuam. Nesse caso específico, há escamas coloridas em tais estruturas, conferindo padrões que variam fortemente, de acordo com a espécie. Existem cerca de 20 mil espécies de borboletas, encontradas em todo o mundo, com exceção das regiões glaciais. No Brasil, há pelo menos 3.100 espécies diferentes desses insetos.</p>
+            </div>
+    </div>
+</section>
+
+<section id="galeria">
+    <h2 class="text-center pt-5">Galeria</h2>
+    <div class="container p-3 mt-3 fundo-galeria">
+
+            <div class="row justify-content-md-center">
+                    <div class="col-md-4">
+                            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Peacock_butterfly_%28Aglais_io%29_2.jpg/330px-Peacock_butterfly_%28Aglais_io%29_2.jpg"
+                                    class="img-fluid rounded-5" loading="lazy">
+                    </div>
+                    <div class="col-md-4">
+                            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Rice_paper_butterfly_with_sunlight_shining_through_%2816709%29.jpg/281px-Rice_paper_butterfly_with_sunlight_shining_through_%2816709%29.jpg" class="img-fluid rounded-5"
+                                    loading="lazy">
+                    </div>
+            </div>
+            <div class="row mt-4 justify-content-md-center">
+                    <div class="col-md-4">
+                            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Pieris_rapae_edit2.jpg/305px-Pieris_rapae_edit2.jpg" class="img-fluid rounded-5" loading="lazy">
+                    </div>
+                    <div class="col-md-4">
+                            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Close_wing_Mud_puddle_of_Delias_agostina_%28Hewitson%2C_1852%29_%E2%80%93_Yellow_Jezebel_%28Male%29_WLB_IMG_2640.jpg/320px-Close_wing_Mud_puddle_of_Delias_agostina_%28Hewitson%2C_1852%29_%E2%80%93_Yellow_Jezebel_%28Male%29_WLB_IMG_2640.jpg"
+                                    class="img-fluid rounded-5" loading="lazy">
+                    </div>
+            </div>
+     </div>
+</section>
+<section id="inicio" class="my-5">
+    <div class="inicio-fundo d-flex justify-content-between align-items-center">
+            <div class="esquerda-conteudo">
+                    <h1 class="display-4 text-white fst-italic fw-bold">Boas-vindas a</h1>
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Eighty-eight_Butterfly_%28Diaethria_anna%29.JPG/320px-Eighty-eight_Butterfly_%28Diaethria_anna%29.JPG" class="mb-3" width="563" height="278" loading="lazy">
+                    <a href="#tropicalia" class="btn btn-primary btn-lg botao-inicio fw-semibold">Quero conhecer!</a>
+            </div>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Common_brimstone_butterfly_%28Gonepteryx_rhamni%29_male.jpg/320px-Common_brimstone_butterfly_%28Gonepteryx_rhamni%29_male.jpg" alt="A imagem apresenta o grupo musical Os Mutantes. São três pessoas cantando em dois microfones" title="Os Mutantes - CC0 Domínio Público / Acervo Arquivo Nacional" class="img-fluid img-inicio">
+    </div>
+</section>
