@@ -1,37 +1,43 @@
 <section id="tropicalia" class="my-5 pt-6 secao-tropicalia">
     <div class="container d-flex align-items-center">
             <div class="col-4 d-flex justify-content-center">
-                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Wegerich_Scheckenfalter_Duo_auf_Rotklee.jpg/321px-Wegerich_Scheckenfalter_Duo_auf_Rotklee.jpg" class="rounded-pill" alt="" width="273" height="331" loading="lazy">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Peace_lily_-_1_-_cropped.jpg/149px-Peace_lily_-_1_-_cropped.jpg" class="rounded-pill" alt="" width="273" height="331" loading="lazy">
             </div>
             <div class="col-5">
-                    <h2>O que são borboletas?</h2>
-                    <p class="p-2">Borboletas são artrópodes pertencentes à Classe Insecta. Assim, apresentam corpo dividido em cabeça, tórax e abdome; um par de antenas, três pares de patas, e também asas, estas encontradas somente nesta classe, embora nem todos os seus representantes as possuam. Nesse caso específico, há escamas coloridas em tais estruturas, conferindo padrões que variam fortemente, de acordo com a espécie. Existem cerca de 20 mil espécies de borboletas, encontradas em todo o mundo, com exceção das regiões glaciais. No Brasil, há pelo menos 3.100 espécies diferentes desses insetos.</p>
+                    <h2>O que é Lírio da paz?</h2>
+                    <p class="p-2">Planta de fácil cultivo, possui uma beleza singular, capaz de alegrar qualquer ambiente. Natural da região equatorial na América do Sul, também é conhecida como “bandeira branca” ou espatifilo. O Lírio da Paz é considerado uma planta mística que tem o poder de sugar as energias negativas dos ambientes e das pessoas.</p>
             </div>
     </div>
 </section>
 
-<section id="galeria">
-    <h2 class="text-center pt-5">Galeria</h2>
     <div class="container p-3 mt-3 fundo-galeria">
+        <section id="galeria">
+                <h2 class="text-center pt-5">Galeria</h2>
+                <section> id="galeria" tabindex="0" aria-label="Seção de galeria de imagens">
+                    <h2 class="text-center pt-5">Galeria</h2>
+                    <div class="container p-3 mt-3 fundo-galeria">
+                     </div>
+            </section>
 
             <div class="row justify-content-md-center">
                     <div class="col-md-4">
-                            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Peacock_butterfly_%28Aglais_io%29_2.jpg/330px-Peacock_butterfly_%28Aglais_io%29_2.jpg"
+                            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Peace_lily_-_2.jpg/297px-Peace_lily_-_2.jpg"
                                     class="img-fluid rounded-5" loading="lazy">
                     </div>
                     <div class="col-md-4">
-                            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Rice_paper_butterfly_with_sunlight_shining_through_%2816709%29.jpg/281px-Rice_paper_butterfly_with_sunlight_shining_through_%2816709%29.jpg" class="img-fluid rounded-5"
+                            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Peace_lily_001.jpg/320px-Peace_lily_001.jpg" class="img-fluid rounded-5"
                                     loading="lazy">
                     </div>
             </div>
             <div class="row mt-4 justify-content-md-center">
                     <div class="col-md-4">
-                            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Pieris_rapae_edit2.jpg/305px-Pieris_rapae_edit2.jpg" class="img-fluid rounded-5" loading="lazy">
+                            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/2093Peace_Lily_in_the_Philippines_04.jpg/320px-2093Peace_Lily_in_the_Philippines_04.jpg" class="img-fluid rounded-5" loading="lazy">
                     </div>
                     <div class="col-md-4">
-                            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Close_wing_Mud_puddle_of_Delias_agostina_%28Hewitson%2C_1852%29_%E2%80%93_Yellow_Jezebel_%28Male%29_WLB_IMG_2640.jpg/320px-Close_wing_Mud_puddle_of_Delias_agostina_%28Hewitson%2C_1852%29_%E2%80%93_Yellow_Jezebel_%28Male%29_WLB_IMG_2640.jpg"
-                                    class="img-fluid rounded-5" loading="lazy">
-                    </div>
+                            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Peace_Lily_2.jpg/120px-Peace_Lily_2.jpg"
+                                    class="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/2093Peace_Lily_in_the_Philippines_08.jpg/330px-2093Peace_Lily_in_the_Philippines_08.jpg" loading="lazy">
+                   
+                                </div>
             </div>
      </div>
 </section>
@@ -39,9 +45,43 @@
     <div class="inicio-fundo d-flex justify-content-between align-items-center">
             <div class="esquerda-conteudo">
                     <h1 class="display-4 text-white fst-italic fw-bold">Boas-vindas a</h1>
-                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Eighty-eight_Butterfly_%28Diaethria_anna%29.JPG/320px-Eighty-eight_Butterfly_%28Diaethria_anna%29.JPG" class="mb-3" width="563" height="278" loading="lazy">
+                    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/2093Peace_Lily_in_the_Philippines_08.jpg/330px-2093Peace_Lily_in_the_Philippines_08.jpg" class="mb-3" width="563" height="278" loading="lazy">
                     <a href="#tropicalia" class="btn btn-primary btn-lg botao-inicio fw-semibold">Quero conhecer!</a>
             </div>
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Common_brimstone_butterfly_%28Gonepteryx_rhamni%29_male.jpg/320px-Common_brimstone_butterfly_%28Gonepteryx_rhamni%29_male.jpg" alt="A imagem apresenta o grupo musical Os Mutantes. São três pessoas cantando em dois microfones" title="Os Mutantes - CC0 Domínio Público / Acervo Arquivo Nacional" class="img-fluid img-inicio">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Peace_lily_--_Spathiphyllum.jpg/152px-Peace_lily_--_Spathiphyllum.jpg" alt="A imagem apresenta o grupo musical Os Mutantes. São três pessoas cantando em dois microfones" title="Os Mutantes - CC0 Domínio Público / Acervo Arquivo Nacional" class="img-fluid img-inicio">
     </div>
 </section>
+
+<body>
+<header class=" p-5">
+   
+    <nav class="container d-flex justify-content-between align-items-center" >
+        <img src="img/logo.png" class="nav-img" loading="lazy">
+        <ul class="nav mt-5">
+            <li class="nav-item"><a class="nav-link" href="#inicio">Início</a></li>
+            <li class="nav-item"><a class="nav-link" href="#galeria">Galeria</a></li>
+            <li class="nav-item"><a class="nav-link" href="#contato">Contato</a></li>
+        </ul>
+        <div id="acessibilidade" class="menu-acessibilidade">
+                <button id="botao-acessibilidade" class="btn btn-primary fw-bold rotacao-botao" aria-expanded="false">acessibilidade</button>
+                <div id="opcoes-acessibilidade" class="opcoes-acessibilidade apresenta-lista">
+                        <button id="aumentar-fonte" class="btn btn-primary fw-bold" aria-label="Aumentar o tamanho da fonte">A+</button>
+                        <button id="diminuir-fonte" class="btn btn-primary fw-bold" aria-label="diminuir o tamanho da fonte">A-</button>
+                        <button id="alterna-contraste" class="btn btn-primary fw-bold" aria-label="Alterna o contraste de cores"> <i class="bi bi-shadows"></i></button>
+                        <div id="acessibilidade" class="menu-acessibilidade">
+                            <button id="botao-acessibilidade" class="btn btn-primary fw-bold rotacao-botao" aria-expanded="false">acessibilidade</button>
+                        </div>
+                </div>
+    </nav>
+</header>
+
+<script src="script.js"></script>
+
+
+
+  <style src="style.css"></style>
+  <section id="tropicalia" class="my-5 pt-6 secao-tropicalia" tabindex="0" aria-label="Seção explicativa sobre a Tropicália">
+    <section id="galeria" tabindex="0" aria-label="Seção de galeria de imagens">
+       
+    </section>
+  </section>
