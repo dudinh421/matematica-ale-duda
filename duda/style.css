@@ -5,7 +5,7 @@
     --cor-destaque: #337436;
     --cor-texto: #7dd1aa;
 
-}S
+}
 
 body {
     background-color: var(--cor-fundo);
@@ -41,3 +41,4 @@ button:hover{
     background-color: var(--cor-destaque);
     color: var(--cor-principal);
 }
+
